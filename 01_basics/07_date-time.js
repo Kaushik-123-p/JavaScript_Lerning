@@ -15,6 +15,9 @@ console.log(myDate.toString());
 console.log(myDate.toTimeString());
 console.log(myDate.toUTCString());
 
+console.log("jaydeep");
+
+
 
 let myCreatedDate = new Date(2024, 0, 20)
     // console.log(myCreatedDate.toDateString());
