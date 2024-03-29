@@ -15,7 +15,7 @@ console.log(myDate.toString());
 console.log(myDate.toTimeString());
 console.log(myDate.toUTCString());
 
-console.log("jaydeep");
+console.log("Kaushik");
 
 
 
